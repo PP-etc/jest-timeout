@@ -14,7 +14,7 @@
     "expo-file-system": "^4.0.0",
     "expo-react-native-adapter": "^3.0.1",
     "jest": "^24.8.0",
-    "jest-expo": "^32.0.1",
+    "jest-expo": "^47.0.1",
     "react-native": "^0.59.8",
     "react-native-gesture-handler": "^1.2.1",
     "ts-jest": "^24.0.2",
